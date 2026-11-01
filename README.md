@@ -70,7 +70,7 @@ python --version      # Windows. macOS·Linux는 python3 --version
 # 예) Python 3.14.2
 ```
 
-- 📂 이 저장소 파일: [GitHub 저장소 페이지](https://github.com/linkcontent7-huisun/E1-3)의 초록색 **[Code]** → **[Download ZIP]**. Git을 안다면 `git clone git@github.com:linkcontent7-huisun/E1-3.git`.
+- 📂 이 저장소 파일: [GitHub 저장소 페이지](https://github.com/linkcontent7-huisun/codyssey-allinone-E1-3)의 초록색 **[Code]** → **[Download ZIP]**. Git을 안다면 `git clone git@github.com:linkcontent7-huisun/codyssey-allinone-E1-3.git`.
 - 🧾 `data.json`은 저장소에 같이 들어 있다. (코디세이 E1-3 데이터 파일)
 
 ## 🚶 따라 하기
